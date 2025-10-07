@@ -25,5 +25,7 @@ SMOTE
 sklearn.metrics  
 accuracy_score
 roc_auc_score 
+streamlit
 confusion_matrix
+
 classification_report
